@@ -61,4 +61,5 @@ Em todos eles, utilizei os parâmetros padrões. Para cada problema, construí u
 
 Importante destacar também que como dados de entrada, utilizei todas as expressões gênicas, mas apenas uma viabilidade celular. Tomei essa decisão baseado no fato que as viabilidades celulares são muito correlacionadas.
 
-Ao final do terceiro arquivo, proponho outros 4 problemas que pretendo resolver muito em breve. Pretendo ainda estudar o desempenho das máquinas mudando os parâmetros. 
+Ao final do terceiro arquivo, proponho outros problemas que pretendo resolver muito em breve. Pretendo ainda estudar o desempenho das máquinas mudando os parâmetros. 
+EDIT: Criei um novo arquivo onde resolvo alguns dos problemas propostos no final do terceiro arquivo: https://github.com/renanmath/imersao-dados-desafio-final/blob/main/Alura_ImersaoDados_modelos_preditivos_(parte2).ipynb
